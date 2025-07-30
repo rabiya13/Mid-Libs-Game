@@ -13,6 +13,21 @@ Option to replay the game after each round
 Simple input validation for blank entries
 
  Beginner-friendly Python code (great for learning)
+ 
+ #Technologies Used
+Python 3 – Core programming language used to build the game
+
+Built-in input() function – For interactive user input
+
+String Formatting (f-strings) – To dynamically insert user input into the story
+
+Conditional Statements – For logic handling and replay options
+
+Functions – To organize code into reusable blocks
+
+
+
+
 
 
 
